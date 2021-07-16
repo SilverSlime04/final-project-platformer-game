@@ -15,7 +15,7 @@ f f f b c 5 5 b b d d d d c c c
 . f . . c d 5 5 b b c c c . . . 
 . . . . c c c c c c c . . . . . 
 . . . . c b b b c . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"nc},4.Kg_ADCnKY/WBr0"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="@IL=wbE2T[;]YJ%]mee("><field name="MEMBER">Enemy</field></shadow></value></block></value><next><block type="variables_set" id="Uiwhm9mTZ8NFN40dV_N)"><field name="VAR" id="7Etic3pm?yQtM@|[:V,a">cerberus</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="=TQmX)ip*Lxkkq4OtduL"><value name="img"><shadow type="screen_image_picker" id="-o}{O/hmD9ZFba3%eYX9"><field name="img">img`
+`</field><data>{"commentRefs":[],"fieldData":{"img":")L?0YSzEVq/HAx_+IyS("}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="@IL=wbE2T[;]YJ%]mee("><field name="MEMBER">Enemy</field></shadow></value></block></value><next><block type="variables_set" id="Uiwhm9mTZ8NFN40dV_N)"><field name="VAR" id="7Etic3pm?yQtM@|[:V,a">cerberus</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="=TQmX)ip*Lxkkq4OtduL"><value name="img"><shadow type="screen_image_picker" id="-o}{O/hmD9ZFba3%eYX9"><field name="img">img`
 . . . . . . . . . . . . . . . . 
 . . d . . d . . . . e . . . e . 
 . . d d d d . . . . e e e e e . 
